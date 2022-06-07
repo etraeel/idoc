@@ -1,0 +1,65 @@
+2022-06-07T09:58:30+00:00 CRITICAL Uncaught Error: Class "XMLReader" not found in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:127
+Stack trace:
+#0 /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php(350): AwesomeMotive\WPContentImporter2\WXRImporter->get_reader()
+#1 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(80): AwesomeMotive\WPContentImporter2\WXRImporter->import()
+#2 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(139): OCDI\Importer->import()
+#3 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php(367): OCDI\Importer->import_content()
+#4 /var/www/idoc/wp-includes/class-wp-hook.php(307): OCDI\OneClickDemoImport->import_demo_data_ajax_callback()
+#5 /var/www/idoc/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /var/www/idoc/wp-includes/plugin.php(476): WP_Hook->do_action()
+#7 /var/www/idoc/wp-admin/admin-ajax.php(187): do_action()
+#8 {main}
+  thrown in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php on line 127
+
+2022-06-07T09:59:15+00:00 CRITICAL Uncaught Error: Class "XMLReader" not found in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:127
+Stack trace:
+#0 /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php(350): AwesomeMotive\WPContentImporter2\WXRImporter->get_reader()
+#1 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(80): AwesomeMotive\WPContentImporter2\WXRImporter->import()
+#2 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(139): OCDI\Importer->import()
+#3 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php(367): OCDI\Importer->import_content()
+#4 /var/www/idoc/wp-includes/class-wp-hook.php(307): OCDI\OneClickDemoImport->import_demo_data_ajax_callback()
+#5 /var/www/idoc/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /var/www/idoc/wp-includes/plugin.php(476): WP_Hook->do_action()
+#7 /var/www/idoc/wp-admin/admin-ajax.php(187): do_action()
+#8 {main}
+  thrown in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php on line 127
+
+2022-06-07T09:59:45+00:00 CRITICAL Uncaught Error: Class "XMLReader" not found in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:127
+Stack trace:
+#0 /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php(350): AwesomeMotive\WPContentImporter2\WXRImporter->get_reader()
+#1 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(80): AwesomeMotive\WPContentImporter2\WXRImporter->import()
+#2 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(139): OCDI\Importer->import()
+#3 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php(367): OCDI\Importer->import_content()
+#4 /var/www/idoc/wp-includes/class-wp-hook.php(307): OCDI\OneClickDemoImport->import_demo_data_ajax_callback()
+#5 /var/www/idoc/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /var/www/idoc/wp-includes/plugin.php(476): WP_Hook->do_action()
+#7 /var/www/idoc/wp-admin/admin-ajax.php(187): do_action()
+#8 {main}
+  thrown in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php on line 127
+
+2022-06-07T10:02:58+00:00 CRITICAL Uncaught Error: Class "XMLReader" not found in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:127
+Stack trace:
+#0 /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php(350): AwesomeMotive\WPContentImporter2\WXRImporter->get_reader()
+#1 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(80): AwesomeMotive\WPContentImporter2\WXRImporter->import()
+#2 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(139): OCDI\Importer->import()
+#3 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php(367): OCDI\Importer->import_content()
+#4 /var/www/idoc/wp-includes/class-wp-hook.php(307): OCDI\OneClickDemoImport->import_demo_data_ajax_callback()
+#5 /var/www/idoc/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /var/www/idoc/wp-includes/plugin.php(476): WP_Hook->do_action()
+#7 /var/www/idoc/wp-admin/admin-ajax.php(187): do_action()
+#8 {main}
+  thrown in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php on line 127
+
+2022-06-07T10:06:25+00:00 CRITICAL Uncaught Error: Class "XMLReader" not found in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php:127
+Stack trace:
+#0 /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php(350): AwesomeMotive\WPContentImporter2\WXRImporter->get_reader()
+#1 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(80): AwesomeMotive\WPContentImporter2\WXRImporter->import()
+#2 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/Importer.php(139): OCDI\Importer->import()
+#3 /var/www/idoc/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php(367): OCDI\Importer->import_content()
+#4 /var/www/idoc/wp-includes/class-wp-hook.php(307): OCDI\OneClickDemoImport->import_demo_data_ajax_callback()
+#5 /var/www/idoc/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /var/www/idoc/wp-includes/plugin.php(476): WP_Hook->do_action()
+#7 /var/www/idoc/wp-admin/admin-ajax.php(187): do_action()
+#8 {main}
+  thrown in /var/www/idoc/wp-content/plugins/one-click-demo-import/vendor/awesomemotive/wp-content-importer-v2/src/WXRImporter.php on line 127
+

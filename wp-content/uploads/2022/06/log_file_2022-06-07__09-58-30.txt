@@ -1,0 +1,187 @@
+
+---Downloaded files---
+The import files for: Cool Knowledge-base were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://idoc.develop
+Data file = /var/www/idoc/wp-content/themes/docly/inc/demo/contents.xml
+Widget file = /var/www/idoc/wp-content/themes/docly/inc/demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+docly_opt -> /var/www/idoc/wp-content/themes/docly/inc/demo/settings.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "sample-video" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+(Docly) Recent Posts - No Title - Imported
+Categories - No Title - Imported
+Tag Cloud - Post Tags - Imported
+Recent Comments - No Title - Imported
+
+Forum Sidebar : 
+
+(Docly) Forums List - Forums - Imported
+(bbPress) Recent Topics - Recent Topics - Imported
+(bbPress) Statistics - Forum Statistics - Imported
+
+Footer Widgets : 
+
+(Docly) Subscribe Form - No Title - Imported
+Navigation Menu - Doc Contents - Imported
+Navigation Menu - Theme Elements - Imported
+(Docly) Docs List - Our Documentation - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: docly_opt finished successfully!
+
+---ocdi/after_import---
+

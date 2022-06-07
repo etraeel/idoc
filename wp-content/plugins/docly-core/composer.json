@@ -1,0 +1,19 @@
+{
+    "name": "ehjewel/docly-core",
+    "description": "Core plugin of Docly WordPress Theme.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Eh Jewel",
+            "email": "ehjewel2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DoclyCore\\Widgets\\": "widgets/"
+        }
+    }
+}

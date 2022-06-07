@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Cool Knowledge-base were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://idoc.develop
+Data file = /var/www/idoc/wp-content/themes/docly/inc/demo/contents.xml
+Widget file = /var/www/idoc/wp-content/themes/docly/inc/demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+docly_opt -> /var/www/idoc/wp-content/themes/docly/inc/demo/settings.json 
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+(Docly) Recent Posts - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Tag Cloud - Post Tags - Widget already exists
+Recent Comments - No Title - Widget already exists
+
+Forum Sidebar : 
+
+(Docly) Forums List - Forums - Widget already exists
+(bbPress) Recent Topics - Recent Topics - Widget already exists
+(bbPress) Statistics - Forum Statistics - Widget already exists
+
+Footer Widgets : 
+
+(Docly) Subscribe Form - No Title - Widget already exists
+Navigation Menu - Doc Contents - Widget already exists
+Navigation Menu - Theme Elements - Widget already exists
+(Docly) Docs List - Our Documentation - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: docly_opt finished successfully!
+
+---ocdi/after_import---
+
